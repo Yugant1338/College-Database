@@ -50,3 +50,8 @@ python main.py
 - **Navigation:** Use the GUI to navigate through different sections (students, faculty, courses, departments).
 - **Data Operations**: View multiple fields of data browsing through the GUI.
 
+## Feedback
+
+**Feel free to make any further adjustments if needed!
+Or reach me out on yugant.work@gmail.com**
+
