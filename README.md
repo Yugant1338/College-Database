@@ -29,15 +29,7 @@ The **College-Database** project aims to efficiently manage the details of stude
   ```sh
   pip install cx_Oracle
   pip install tk
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
+  pip install tabulate
 
 ## Installation
 
